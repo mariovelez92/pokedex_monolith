@@ -1,0 +1,5 @@
+
+|
+java:S1488-"fImmediately return this expression instead of assigning it to the temporary variable "pokemonDtoList".(ìù¿’
+Q
+java:S49731"<Strings and Boxed types should be compared using "equals()".(Ö¬µl
